@@ -1,0 +1,8 @@
+Flask==3.0.0
+flask-cors==4.0.0
+python-docx==0.8.11
+pypandoc==1.13
+Pillow==10.1.0
+lxml==4.9.3
+requests==2.31.0
+gunicorn==21.2.0
